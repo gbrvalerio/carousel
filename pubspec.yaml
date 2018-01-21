@@ -2,7 +2,7 @@ name: carousel
 description: A Flutter Carousel.
 version: 0.0.1
 author: Gabriel Valério <gbrvalerio@gmail.com>
-homepage: github.com/gbrvalerio
+homepage: https://github.com/gbrvalerio/carousel
 
 dependencies:
   flutter:
