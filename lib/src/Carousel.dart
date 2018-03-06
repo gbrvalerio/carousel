@@ -67,9 +67,9 @@ class _CarouselState extends State<Carousel> with SingleTickerProviderStateMixin
 
   @override
   void dispose() {
-    super.dispose();
     _controller.dispose();
     _timer?.cancel();
+    super.dispose();
   }
 
 
