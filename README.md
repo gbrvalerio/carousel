@@ -34,6 +34,10 @@ new SizedBox(
 ```
 This code snippet creates an Carousel with an height of 240.0 that contains both the logos of Flutter and React native, as an example. Simples as that! 😄
 
+## Who's talking about it?
+Published articles:
+  * Creating a Carousel with Flutter, Ezra Sandzer-Bell. [Avaliable here](https://medium.com/flutter-io/creating-a-carousel-with-flutter-adf9a756e949)
+
 ## Credits
 
 Developed by Gabriel Valério <gbrvalerio@gmail.com>
